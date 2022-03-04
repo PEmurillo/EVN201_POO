@@ -1,0 +1,15 @@
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\bin\Debug\net6.0\EVN201_herencia.exe
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\bin\Debug\net6.0\EVN201_herencia.deps.json
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\bin\Debug\net6.0\EVN201_herencia.runtimeconfig.json
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\bin\Debug\net6.0\EVN201_herencia.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\bin\Debug\net6.0\ref\EVN201_herencia.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\bin\Debug\net6.0\EVN201_herencia.pdb
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.csproj.AssemblyReference.cache
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.AssemblyInfoInputs.cache
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.AssemblyInfo.cs
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.csproj.CoreCompileInputs.cache
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\ref\EVN201_herencia.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.pdb
+C:\Users\LAPPABLO\programacion\POO\EVN201_herencia\obj\Debug\net6.0\EVN201_herencia.genruntimeconfig.cache
