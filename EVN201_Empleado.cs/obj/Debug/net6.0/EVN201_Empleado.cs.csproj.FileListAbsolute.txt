@@ -1,0 +1,15 @@
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\bin\Debug\net6.0\EVN201_Empleado.cs.exe
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\bin\Debug\net6.0\EVN201_Empleado.cs.deps.json
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\bin\Debug\net6.0\EVN201_Empleado.cs.runtimeconfig.json
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\bin\Debug\net6.0\EVN201_Empleado.cs.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\bin\Debug\net6.0\ref\EVN201_Empleado.cs.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\bin\Debug\net6.0\EVN201_Empleado.cs.pdb
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.csproj.AssemblyReference.cache
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.AssemblyInfoInputs.cache
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.AssemblyInfo.cs
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.csproj.CoreCompileInputs.cache
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\ref\EVN201_Empleado.cs.dll
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.pdb
+C:\Users\LAPPABLO\programacion\POO\EVN201_Empleado.cs\obj\Debug\net6.0\EVN201_Empleado.cs.genruntimeconfig.cache

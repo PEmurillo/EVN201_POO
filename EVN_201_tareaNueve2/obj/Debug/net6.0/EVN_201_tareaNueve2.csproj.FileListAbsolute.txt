@@ -1,0 +1,15 @@
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\bin\Debug\net6.0\EVN_201_tareaNueve2.exe
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\bin\Debug\net6.0\EVN_201_tareaNueve2.deps.json
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\bin\Debug\net6.0\EVN_201_tareaNueve2.runtimeconfig.json
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\bin\Debug\net6.0\EVN_201_tareaNueve2.dll
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\bin\Debug\net6.0\ref\EVN_201_tareaNueve2.dll
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\bin\Debug\net6.0\EVN_201_tareaNueve2.pdb
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.csproj.AssemblyReference.cache
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.AssemblyInfoInputs.cache
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.AssemblyInfo.cs
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.csproj.CoreCompileInputs.cache
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.dll
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\ref\EVN_201_tareaNueve2.dll
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.pdb
+C:\Users\LAPPABLO\programacion\POO\EVN_201_tareaNueve2\obj\Debug\net6.0\EVN_201_tareaNueve2.genruntimeconfig.cache
